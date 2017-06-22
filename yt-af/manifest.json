@@ -1,4 +1,5 @@
 {
+   "version": "1.1",
    "description": "eliath.biz white af theme",
    "name": "white af",
    "manifest_version": 2,
@@ -19,7 +20,7 @@
          "ntp_section_text": [ 135, 135, 135 ],
          "ntp_text": [ 135, 135, 135 ],
          "tab_background_text": [ 135, 135, 135 ],
-         "tab_text": [ 135, 135, 135 ],
+         "tab_text": [ 34, 34, 34 ],
          "toolbar": [ 217, 217, 217 ]
       },
       "images": {
@@ -42,6 +43,5 @@
          "frame_incognito": [ 0.65686274509804, 1, 0.5 ],
          "frame_incognito_inactive": [ 0.65686274509804, 1, 0.5 ]
       }
-   },
-   "version": "1"
+   }
 }
