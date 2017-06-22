@@ -1,6 +1,7 @@
 {
-   "description": “eliath.biz white af theme“,
-   "name": “white af“,
+   "description": "eliath.biz white af theme",
+   "name": "white af",
+   "manifest_version": 2,
    "theme": {
       "colors": {
          "bookmark_text": [ 135, 135, 135 ],
